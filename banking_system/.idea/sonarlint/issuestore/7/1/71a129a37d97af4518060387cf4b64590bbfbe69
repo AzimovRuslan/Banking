@@ -1,0 +1,6 @@
+
+l
+java:S3457D"Q%n should be used in place of \n to produce the platform-specific line separator.(‘¨›ãýÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(‘¨›ãýÿÿÿÿ
+S
+java:S1128"6Remove this unused import 'lombok.extern.slf4j.Slf4j'.(ûúÄ®8¿ûõŒ¦1
